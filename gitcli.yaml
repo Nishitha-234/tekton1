@@ -26,8 +26,6 @@ spec:
   workspaces:
     - name: nishitha5678-dev
 
-      description: The git repo will be cloned onto the volume backing this Workspace.
-
     - name: ssh-directory
 
       optional: true
